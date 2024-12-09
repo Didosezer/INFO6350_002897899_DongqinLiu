@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87323836197",
+    "project_id": "exercise-5a-auth",
+    "storage_bucket": "exercise-5a-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87323836197:android:48f356dd41922bb55864cc",
+        "android_client_info": {
+          "package_name": "com.example.exercise5a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-9lvRPGy5MGvhEo3aMbJ0ZxBVhRxKBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
